@@ -1,4 +1,4 @@
-# NYCSU-SDN-2024
+# NYCUCS-SDN-2024
 開課教授：曾建超
 ## lab1
 requirements:
